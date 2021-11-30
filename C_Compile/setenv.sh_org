@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Source this file
+echo "${BASH_SOURCE[0]}"
+RISCV_TOOLS_PATH=$(dirname "${BASH_SOURCE[0]}")
+
+export RISCV="$RISCV_TOOLS_PATH/riscv/"
+export PATH="$PATH:$RISCV_TOOLS_PATH/riscv/bin"
