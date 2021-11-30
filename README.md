@@ -1,5 +1,5 @@
 # 5th-AI-Edge-Contest-RISC-V-reference-environment
-<a href="https://signate.jp/competitions/537">第5回AIエッジコンテスト（実装コンテスト③）</a>における、RISC-Vリファレンス環境です。
+<a href="https://signate.jp/competitions/537">第5回AIエッジコンテスト（実装コンテスト③）</a>のRISC-Vリファレンス環境です。
 
 
 |  ディレクトリ、ファイル  |  説明  |
